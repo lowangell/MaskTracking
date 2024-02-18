@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Workaround", "c#uygulamasi\Workaround.csproj", "{D4A9C63E-B21D-45DB-898F-9F0B7CB5420E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{25545072-9AC1-495E-814C-21A0F615649C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{0E0B8421-8A92-4C27-B5FF-E34C13E6A887}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4A9C63E-B21D-45DB-898F-9F0B7CB5420E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4A9C63E-B21D-45DB-898F-9F0B7CB5420E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4A9C63E-B21D-45DB-898F-9F0B7CB5420E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4A9C63E-B21D-45DB-898F-9F0B7CB5420E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25545072-9AC1-495E-814C-21A0F615649C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25545072-9AC1-495E-814C-21A0F615649C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25545072-9AC1-495E-814C-21A0F615649C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25545072-9AC1-495E-814C-21A0F615649C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E0B8421-8A92-4C27-B5FF-E34C13E6A887}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E0B8421-8A92-4C27-B5FF-E34C13E6A887}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E0B8421-8A92-4C27-B5FF-E34C13E6A887}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E0B8421-8A92-4C27-B5FF-E34C13E6A887}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8C23E2F-FBD0-46AF-A291-0353FB753EF3}
+	EndGlobalSection
+EndGlobal
